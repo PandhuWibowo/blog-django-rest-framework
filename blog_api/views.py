@@ -1,4 +1,3 @@
-from os import stat
 from rest_framework.views import APIView
 from blog_api.models import Blog
 from blog_api.serializer import BlogSerializer
