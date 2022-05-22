@@ -10,3 +10,7 @@
 ```
 python3 manage.py runserver
 ```
+- To run unit test
+```
+python3 manage.py test
+```
