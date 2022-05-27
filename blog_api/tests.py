@@ -2,6 +2,7 @@ from rest_framework.test import APITestCase
 from rest_framework import status
 from django.urls import reverse
 
+# Create your tests here.
 class TestBlogApi(APITestCase):
     # List of Blogs
     def test_should_ok_when_get_list_of_blogs(self):
